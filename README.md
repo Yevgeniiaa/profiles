@@ -1,2 +1,1 @@
-#profiles
-https://github.com/Yevgeniiaa/profiles.git
+https://yevgeniiaa.github.io/profiles/
